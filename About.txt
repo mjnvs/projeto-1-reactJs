@@ -1,0 +1,4 @@
+Aqui está o código do curso de ReactJs da Rocketseat,
+este projeto se trata de criar um Feed.
+Será o projeto 1 com obejtivo de criar componentes e torna 
+dinamico a aplicação.
